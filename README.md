@@ -1,4 +1,4 @@
-# Hello, I'm [Ahmad F.Obaid] 👋
+# Hello, I'm Ahmad F.Obaid 👋
 
 ## About Me
 I'm a Computer Science student at An-Najah National University, specializing in Artificial Intelligence. Passionate about developing innovative solutions at the intersection of machine learning and web technologies.
