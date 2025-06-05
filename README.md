@@ -30,7 +30,7 @@ Currently enhancing my knowledge in [ LLMs, & NLP ] while working on projects th
 
 ## 📫 Connect With Me
 - LinkedIn: [www.linkedin.com/in/ahmad-f-obaid-81b570296]
-- Email: [ahmadobaid04@gmail.com]
+- Email: [ahmadfobaid04@gmail.com]
 <!-- - Portfolio: [Your Website if available] -->
 
 ## 📊 GitHub Stats 
