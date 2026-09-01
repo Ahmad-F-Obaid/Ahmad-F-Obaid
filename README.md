@@ -67,11 +67,10 @@ A retrieval-augmented generation system for recruiting workflows: batch CV uploa
 ---
 
 ### 📊 GitHub Stats
+![](https://streak-stats.demolab.com/?user=Ahmad-F-Obaid&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ahmad-F-Obaid&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ahmad-F-Obaid&show_icons=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-F-Obaid&layout=compact" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 
